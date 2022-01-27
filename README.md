@@ -26,6 +26,7 @@ npm start
 ---
 ![WhatsApp Image 2022-01-28 at 2 58 13 AM](https://user-images.githubusercontent.com/68339841/151451214-e5abf9ff-63ca-4bb9-818f-21d9947e2821.jpeg)
 ---
-![Uploading WhatsApp Image 2022-01-28 at 2.58.57 AM.jpeg…]()
+![WhatsApp Image 2022-01-28 at 2 58 57 AM](https://user-images.githubusercontent.com/68339841/151451895-b3dab566-62d9-4c34-b8ad-bf8987dbead1.jpeg)
+
 ---
 ![WhatsApp Image 2022-01-28 at 2 59 25 AM](https://user-images.githubusercontent.com/68339841/151451425-d482c9a6-2a47-4747-b18e-f0a1556c9a9d.jpeg)
