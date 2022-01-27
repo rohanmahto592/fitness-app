@@ -2,7 +2,7 @@
 | Project | Link |
 | ------ | ------ |
 | Website |  https://go-go-fitness.netlify.app/
-| Video Demo | https://drive.google.com/file/d/12Vocf56AdTD0L0XbPyrESkuluYUXVTXp/view?usp=sharing
+| Video Demo | https://drive.google.com/file/d/1aj6R2SuBxqbInvRubBl3UfoKin3hwvrN/view?usp=sharing
 
 ---
 ## `Features`
